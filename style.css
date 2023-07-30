@@ -32,6 +32,7 @@
 .landing {
     display: flex;
     flex-direction: row;
+    padding-top: 75px;
 }
 
 .landing-text {
@@ -219,6 +220,7 @@
 /* projects page  */
 .projects {
     background-color: #FFE2E2;
+    padding-top: 75px;
 }
 
 .project-landing {
@@ -396,6 +398,7 @@
 .experience {
     background-color: #FFE2E2;
     padding-bottom: 8%;
+    padding-top: 75px;
 }
 
 .exp-land {
@@ -541,6 +544,10 @@
 }
 
 /* contact page  */
+
+.contact{
+    padding-top: 75px;
+}
 
 .contact-land {
     background: #FFE2E2;
