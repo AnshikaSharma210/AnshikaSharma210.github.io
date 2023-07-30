@@ -4,6 +4,9 @@
     box-sizing: border-box;
 }
 /* navbar */
+nav{
+    z-index: 1;
+}
 .navbar-collapse {
     flex-grow: 0;
     display: flex;
